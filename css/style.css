@@ -1,0 +1,48 @@
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'kantumruy Pro';
+} 
+.navbar{
+  width:100%;
+  background-color: #2D3142;
+  padding: 15px 20px; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar .navbar-logo h1{
+    display: inline-block;
+    background-color: #fff; 
+    color: #2D3142;
+    padding: 10px 20px; 
+    border-radius: 30px; 
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+.navbar p{
+  color: #fff;
+  font-size: 15px;
+  margin-top: 12px; 
+  margin-bottom: 0;
+  margin-left: 8px;
+}
+
+.navbar ul{
+  list-style: none;
+  gap: 25px;
+  display: flex; 
+}
+  
+.navbar ul li a{
+  text-decoration: none;
+  font-size: 18px;
+  color: #fff; 
+  padding-top: 50px;  
+  display: inline-block; 
+
+
+}
