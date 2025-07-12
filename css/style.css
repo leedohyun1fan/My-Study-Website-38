@@ -21,6 +21,9 @@
     border-radius: 30px; 
     font-weight: bold;
     font-size: 20px;
+    position: relative;
+    top: -20px;   
+    left: -10px
   }
 
 .navbar p{
