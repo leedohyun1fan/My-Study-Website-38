@@ -4,6 +4,11 @@
   box-sizing: border-box;
   font-family: 'kantumruy Pro';
 } 
+
+body {
+  background-color: #dddfdf; 
+}
+
 .navbar{
   width:100%;
   background-color: #2D3142;
@@ -44,5 +49,46 @@
   padding-top: 50px;  
   display: inline-block; 
 
+}
+
+.main-heading {
+  color: #2c3e50;          
+  font-size: 48px;          
+  font-family: kantumruy Pro;
+  font-weight: bold;      
+  text-align: center;       
+  margin-top: 30px;  
+  margin-right: 30px;
+  
+}
+
+.image-row {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 75px; 
 
 }
+
+.image-row img {
+  width: 400px;
+  height: 270px;
+  border-radius: 10px 10px 0 0;
+  
+}
+
+.image-card {
+    background-color: white;
+    padding: 0px;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.10);
+    text-align: center;
+    width: 400px;      
+  }
+
+  .image-card img {
+    object-fit: cover;
+    margin-bottom: 300px;
+  }
+
