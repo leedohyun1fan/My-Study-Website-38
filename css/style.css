@@ -66,7 +66,7 @@ body {
   display: flex;
   justify-content: center;
   gap: 20px;
-  padding: 75px; 
+  padding: 45px; 
 
 }
 
@@ -84,11 +84,33 @@ body {
     overflow: hidden;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.10);
     text-align: center;
-    width: 400px;      
+    height: 600px;
+    width: 400px;  
+    padding-bottom: 300px;
   }
 
   .image-card img {
     object-fit: cover;
-    margin-bottom: 300px;
+    margin: 0;  
+    padding: 0; 
   }
 
+.image-text {
+  margin: 10px 20px 0;
+  font-size: 20px;
+  color: #2D3142;
+  text-align: left;       
+}
+
+.image-description  {
+  margin: 10px 20px 0;
+  font-size: 18px;
+  color: #8f9094;
+  text-align: left; 
+  
+}
+
+.image-description li {
+  margin-top: 20px; 
+  margin-left: 10px;
+}
