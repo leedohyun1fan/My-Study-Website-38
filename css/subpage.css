@@ -200,14 +200,16 @@ h3 {
 }
 
 .study-content h2 {
-        font-size: 28px;
-         background-color: white;
-         position: relative;
-         padding: 0px 15px;
-         border-radius: 15px;
-         overflow: hidden;
-         margin: 0 auto 20px; /* centers box */
-         text-align: center; /* centers text inside box */
-       }
+       font-size: 28px;
+       background-color: white;
+       position: relative;
+       padding: 0px 15px; 
+       border-radius: 15px;
+       overflow: hidden;
+       margin: 0 0px 20px; 
+       width: 350px;
+       text-align: left;
+     }
+  
 }
 
