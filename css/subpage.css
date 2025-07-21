@@ -200,9 +200,14 @@ h3 {
 }
 
 .study-content h2 {
-  color: #2D3142;
-  font-size: 28px;
-;
-  
+        font-size: 28px;
+         background-color: white;
+         position: relative;
+         padding: 0px 15px;
+         border-radius: 15px;
+         overflow: hidden;
+         margin: 0 auto 20px; /* centers box */
+         text-align: center; /* centers text inside box */
+       }
 }
 
