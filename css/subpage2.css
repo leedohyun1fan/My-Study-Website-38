@@ -30,6 +30,12 @@ body {
 
   }
 
+.study-logo:hover {
+  color: #2D3142;  
+  text-decoration: none;
+
+}
+
 .navbar p{
   color: #fff;
   font-size: 15px;

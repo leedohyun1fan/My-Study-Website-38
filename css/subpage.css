@@ -30,6 +30,12 @@ body {
 
   }
 
+.study-logo:hover {
+  color: #2D3142;  
+  text-decoration: none;
+  
+}
+
 .navbar p{
   color: #fff;
   font-size: 15px;
@@ -214,11 +220,11 @@ h3 {
       
 }
 
-a, {
+a {
   color: #0013a3;
 }
 
-a:hover,  {
+a:hover  {
   color: #0000ff;; 
 }
 
