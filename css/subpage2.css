@@ -216,14 +216,14 @@ h3 {
       overflow: hidden;
       margin: 15px 0 20px; 
       text-align: left;
-      width: 350px;
+      width: 300px;
 
 }
 
-a, {
+a {
   color: #0013a3;
 }
 
-a:hover,  {
+a:hover  {
   color: #0000ff;; 
 }
