@@ -111,7 +111,7 @@ h3 {
 
 }
 
-.study-content p {
+.aboutus-content p {
   margin-bottom: 40px;
   text-align: center;
   font-size: 18px;
@@ -119,7 +119,7 @@ h3 {
 
 }
 
-.study-content h2 {
+.aboutus-content h2 {
   font-size: 24px;
   position: relative;
   margin: 5px auto 10px;  
@@ -149,4 +149,9 @@ a:hover  {
   width: 180px;
   margin: 20px auto 20px auto; 
   opacity: 1;
+}
+
+.uni-image img {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3); 
+
 }
