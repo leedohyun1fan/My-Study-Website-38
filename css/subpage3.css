@@ -306,3 +306,11 @@ h4 {
   margin-top: 40px; 
 
 }
+.smart-letter {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #253862;
+  margin-right: 0.3em;
+  vertical-align: middle;
+  font-family:  sans-serif;
+}
