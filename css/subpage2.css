@@ -238,8 +238,15 @@ a:hover  {
   width: 100%; 
   box-shadow: 0 2px 8px rgba(0,0,0,0.2);
   margin-left: 24px;
-  
+  transition: transform 0.3s ease, box-shadow 0.3s ease; 
 }
+
+.resource-box:hover {
+  transform: scale(1.02); 
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); 
+  z-index: 10; 
+}
+
 
 .resource-box h3 {
   margin-top: 0;
