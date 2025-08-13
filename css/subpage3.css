@@ -318,5 +318,6 @@ h4 {
 
 strong {
   font-weight: 700;
-    text-shadow: 0 0 1px rgba(0,0,0,0.1);
+    text-shadow: 0 0 1px rgba(0,0,0,0.15);
+    color: #222;
 }
